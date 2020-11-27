@@ -1,0 +1,12 @@
+{
+  "name": "story-system",
+  "displayName": "story-system",
+  "expo": {
+    "name": "story-system",
+    "slug": "story-system",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
